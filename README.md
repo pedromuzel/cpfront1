@@ -23,7 +23,7 @@ Vinheria Agnello vai além de uma loja, é um sentimento, um momento de vida e a
 
 **Abra com qualquer editor de texto que suporte o `HTML` (ex: Visual Studio Code) para ver o texto fonte da pagina, e no caso do visual studio code é possivel baixar uma extenção (live Server) para ver o site funcionando**
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - `HTML`
 - `CSS`
 

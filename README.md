@@ -8,7 +8,9 @@ Está sendo feito um site para um Vinheria Agnello para explicar melhor a histor
 - O sistema em desenvolvimento serve para explicar aos amantes de vinhos, que tendem a demorar a escolher um vinho, conhecerem mais sobre a historia dos mesmo e assim já sabendo o que escolher quando chegar na Vinheria. Todos os vinhos tem especificações, e caso algum cliente tenha duvida, o mesmo pode entrar em contato via e-mail para esclarecer todas as duvidas. 
 Vinheria Agnello vai além de uma loja, é um sentimento, um momento de vida e adoração de vivencias.
 ﻿
+## :hammer: Explicando o projeto
 
+- Com a estrutura em HTML (Index e as páginas restantes na pasta "HTML") com o Front-End em CSS (Main e as páginas restantes na pasta "assets"), utilizando o conteúdo visto em aula, desenvolvemos um site onde, além de vender a marca Vinheira Agnello, contamos a história da empresa (Página sobre.html), disponibilzamos ao usuário a possibilidade de assistir ao preparo dos produtos (Página Serviços.hmtml), um contato mais próximo possível disponibilzando difentes maneiras de comunicação e formas de conhecer o trabalho da Vinheira (Página contato.html). Todas essas páginas, junto com o Início (Index.html) e  Produtos (produtos.html), são acessadas por links no header do site, como aprendemos nas aulas da disciplina Front-End.
 
 ## :hammer: Funcionalidades do projeto
 - `Links`: Site contem likns integrados onde o usario pode transitar entre 5 paginas 
@@ -27,6 +29,12 @@ Vinheria Agnello vai além de uma loja, é um sentimento, um momento de vida e a
 - `HTML`
 - `CSS`
 
+Nome dos integrantes: 
+Pedro Henrique Muzel Santos RM555983
+Danilo RM556602
+Vitor Ismael 556027
+Lucas Raphael 555543
+Renato 556403
 
 
 
